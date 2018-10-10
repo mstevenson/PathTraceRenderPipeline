@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f23c169231fd8472ea2f9f2096cdd1db, type: 3}
+  m_Name: PathTracerPipeline
+  m_EditorClassIdentifier: 
+  _shader: {fileID: 7200000, guid: ec9f355dd42d34d0984e275b04454014, type: 3}
